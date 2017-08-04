@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentApp</string>
+    <string name="edit_user">Username</string>
+    <string name="edit_pass">Password</string>
+    <string name="edit_tel">Tel.</string>
+    <string name="but_submit">ลงทะเบียน</string>
+    <string name="img_rmutsv">rmutsv</string>
+    <string name="but_back">กลับหน้าหลัก</string>
+</resources>
